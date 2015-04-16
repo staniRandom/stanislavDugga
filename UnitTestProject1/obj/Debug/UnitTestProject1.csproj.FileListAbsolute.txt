@@ -1,0 +1,7 @@
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\bin\Debug\stanislavDuga.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\bin\Debug\stanislavDuga.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -12,9 +12,38 @@ namespace stanislavDuga
         {
             throw new NotImplementedException();
         }
-        public int truoNumber(string s)
+        public long truoNumber(string s)
         {
-            throw new NotImplementedException();
+            long newNuber = 0;
+            bool started= false;
+            bool ending= false;
+            if (s == null) return -1;
+            foreach (var item in s)
+            {
+                if (Char.IsNumber(item))
+                {
+                    started = true;
+                    newNuber *= 10;
+                    newNuber += int.Parse(item.ToString());
+
+                }
+                else if (started==true&&ending==false)
+                {
+                    switch (item)
+                    {
+                        case 'k':
+                            newNuber *= 1000;
+                            break;
+                        case'm':
+                            break;
+                        default:
+                            return -1;
+                            
+                    }
+                }
+            }
+            return newNuber;
+            
         }
     }
 }
