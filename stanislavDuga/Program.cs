@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace stanislavDuga
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
+            throw new NotImplementedException();
+        }
+        public int truoNumber(string s)
+        {
+            throw new NotImplementedException();
         }
     }
 }

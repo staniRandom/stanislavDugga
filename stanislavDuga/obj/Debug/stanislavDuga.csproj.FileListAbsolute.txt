@@ -1,1 +1,6 @@
 c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\bin\Debug\stanislavDuga.exe.config
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\obj\Debug\stanislavDuga.csprojResolveAssemblyReference.cache
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\bin\Debug\stanislavDuga.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\bin\Debug\stanislavDuga.pdb
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\obj\Debug\stanislavDuga.exe
+c:\users\stanislav\documents\visual studio 2013\Projects\stanislavDuga\stanislavDuga\obj\Debug\stanislavDuga.pdb
